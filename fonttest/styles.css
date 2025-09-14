@@ -39,3 +39,8 @@ body {
 h1 {
   font-family: "freightround_probold", sans-serif;
 }
+
+.icons {
+  font-size: 32px;
+  color: pink;
+}
