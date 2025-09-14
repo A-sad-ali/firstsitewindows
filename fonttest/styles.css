@@ -25,22 +25,26 @@
 body {
   max-width: 600px;
   margin: auto;
-  /* font-family: "freightround_prolight", sans-serif, Arial; */
-}
-
-.roboto {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
+  font-family: "freightround_prolight", sans-serif, Arial;
+  font-weight: 400;
 }
 
 h1 {
   font-family: "freightround_probold", sans-serif;
 }
 
+footer p {
+  font-family: "freightround_probold", sans-serif;
+}
+
 .icons {
   font-size: 32px;
   color: pink;
+}
+
+.montserrat {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 230;
+  font-style: italic;
 }
